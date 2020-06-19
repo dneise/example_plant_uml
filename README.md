@@ -18,4 +18,4 @@ worker_node000 <--> worker_node001
 @enduml
 ```
 
-![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/dneise/example_plant_uml/blob/master/README.md)
+![cached image](http://www.plantuml.com/plantuml/proxy?src=https://raw.github.com/dneise/example_plant_uml/blob/master/README.md)
