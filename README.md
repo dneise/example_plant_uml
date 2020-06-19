@@ -8,8 +8,8 @@ In this repo we implement the `central_node` as shown here .. the `worker_node`s
 @startuml
 
 node central_node
-node worder_node000
-node worder_node001
+node worker_node000
+node worker_node001
 
 central_node .. worker_node000
 central_node .. worker_node001
@@ -18,3 +18,4 @@ worker_node000 <--> worker_node001
 @enduml
 ```
 
+![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/dneise/example_plant_uml/blob/master/README.md)
